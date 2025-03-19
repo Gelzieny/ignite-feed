@@ -35,3 +35,7 @@ body, input, textarea, button {
   font-weight: 400;
   font-size: 1rem;
 }
+
+.custom-margin-top {
+  margin-top: calc(0px - 1.5rem - 6px);
+}
