@@ -18,7 +18,9 @@
 ## 💻 Sobre o projeto
 
 <p align="justify">
+
 [Ignite Feed](https://ignite-feed-nine-omega.vercel.app/) é um projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar um projeto no estilo feed de posts.
+
 </p>
 
 ## ⚙️ Descrição
