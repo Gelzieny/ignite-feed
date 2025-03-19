@@ -27,13 +27,13 @@
 
 <p align="justify">
 
-O projeto **Ignite Feed** é um site de uma página para listar posts de um blog, criar e excluir comentários desses posts, um projeto simples sem muitas funcionalidades para praticar conceitos básicos, como:
+O projeto **Ignite Feed** é um projeto de página única (SPA) desenvolvido para listar posts de um blog, permitindo a criação e exclusão de comentários. Trata-se de um projeto simples, ideal para a prática de conceitos fundamentais, como:
 </p>
 
-1. **Visualização de Posts**: Exibe uma lista de posts com título, conteúdo e autor.
-2. **Comentários**: Os usuários podem comentar nos posts, criando uma interação mais rica. 
-3. **Armazenamento local**: Utiliza o **local storage** ou banco de dados para persistir os dados e garantir que as interações sejam mantidas mesmo após o fechamento do app.
-4. **Carregamento dinâmico**: Os posts são carregados dinamicamente com base em dados provenientes de uma **API REST** ou similar.
+1. **Visualização de Posts**: Exibe uma lista de posts contendo título, conteúdo e autor.
+2. **Interatividade por comentários**: Os usuários podem adicionar e excluir comentários, promovendo maior engajamento.
+3. **Persistência de dados**: Utiliza o armazenamento local (Local Storage) ou um banco de dados para garantir que as interações sejam mantidas mesmo após o fechamento da aplicação.
+4. **Carregamento dinâmico**: Os posts são carregados automaticamente a partir de uma API REST ou fonte de dados semelhante.
 5. **Atualizações em tempo real**: O feed é atualizado automaticamente para refletir novas postagens ou comentários.
 
 
