@@ -23,5 +23,36 @@ O layout da aplicação está disponível no [Figma](<https://www.figma.com/desi
 <p align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,reactjs,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,nodejs,reactj,vscode" />
 </a>
+
+### Clone o repositório
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/Gelzieny/ignite-feed.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd ignite-feed
+```
+
+### 🖥️ Rodando projeto
+
+```bash
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:3334 - acesse <http://localhost:5173/>
+```
+
+# 🧑🏻‍💻 Autor
+
+Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gelzieny-r-martins-180551106/)
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
