@@ -48,6 +48,9 @@ O layout da aplicação está disponível no [Figma](<https://www.figma.com/desi
 - ⚛️ **[React](https://reactjs.org/)**: Biblioteca JavaScript para construção de interfaces de usuário.
 - ⚡ **[Vite](https://vitejs.dev/)**: Ferramenta de build rápida para desenvolvimento frontend.
 - 🎨 **[TailwindCSS](https://tailwindcss.com/)**: Framework CSS utilitário para estilização.
+- 🌱 **[Biome](https://biomejs.dev/)**: Ferramenta de linting e formatação para garantir código limpo.
+- 🟦 **[TypeScript](https://www.typescriptlang.org/)**: Superconjunto de JavaScript com tipagem estática.
+- 🖼️ **[Phosphor-react](https://phosphoricons.com/)**: Biblioteca de componentes React.
 
 ## 🚀 Como executar o projeto
 
