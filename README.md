@@ -4,6 +4,17 @@
   </a>
 </p>
 
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-descricao">Descrição</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-funcionalidades">Funcionalidades</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
+
 ## 🎨 Layout
 
 O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/9O3YzNAXfS3D9QAGNbQovZ/Ignite-Feed-(Community)-(Copy)?node-id=1-35&t=zFoynTXXTFI6dWKM-0>)
@@ -23,7 +34,7 @@ O layout da aplicação está disponível no [Figma](<https://www.figma.com/desi
 <p align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,reactj,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,nodejs,react,vscode" />
 </a>
 
 ### Clone o repositório
