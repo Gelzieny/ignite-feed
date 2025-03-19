@@ -15,6 +15,26 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
+## 💻 Sobre o projeto
+
+<p align="justify">
+[Ignite Feed](https://ignite-feed-nine-omega.vercel.app/) é um projeto desenvolvido durante o bootcamp ignite da [Rocketseat](https://www.rocketseat.com.br/) que foca nas tecnologias ReactJS, React Native e NodeJS. Consiste em criar um projeto no estilo feed de posts.
+</p>
+
+## ⚙️ Descrição
+
+<p align="justify">
+
+O projeto **Ignite Feed** é um site de uma página para listar posts de um blog, criar e excluir comentários desses posts, um projeto simples sem muitas funcionalidades para praticar conceitos básicos, como:
+</p>
+
+1. **Visualização de Posts**: Exibe uma lista de posts com título, conteúdo e autor.
+2. **Comentários**: Os usuários podem comentar nos posts, criando uma interação mais rica. 
+3. **Armazenamento local**: Utiliza o **local storage** ou banco de dados para persistir os dados e garantir que as interações sejam mantidas mesmo após o fechamento do app.
+4. **Carregamento dinâmico**: Os posts são carregados dinamicamente com base em dados provenientes de uma **API REST** ou similar.
+5. **Atualizações em tempo real**: O feed é atualizado automaticamente para refletir novas postagens ou comentários.
+
+
 ## 🎨 Layout
 
 O layout da aplicação está disponível no [Figma](<https://www.figma.com/design/9O3YzNAXfS3D9QAGNbQovZ/Ignite-Feed-(Community)-(Copy)?node-id=1-35&t=zFoynTXXTFI6dWKM-0>)
@@ -47,7 +67,7 @@ $ git clone <https://github.com/Gelzieny/ignite-feed.git>
 $ cd ignite-feed
 ```
 
-### 🖥️ Rodando projeto
+### Rodando projeto
 
 ```bash
 
